@@ -1,0 +1,10 @@
+name: erekir-augmented
+displayName: "Erekir: Augmented World"
+author: Seraphim4404
+subtitle: "[[]#7d4dff]Let me die.[]"
+description:
+  '''
+  [red[]]A mod that completely ramps up the difficulty of Erekir by adding even more uniqueness to the campaign sectors after [pink[]]Basin.
+  '''
+version: 1
+minGameVersion: 146
