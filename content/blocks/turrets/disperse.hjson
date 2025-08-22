@@ -1,4 +1,3 @@
-reload: 30
 shoot: {
   type: shootMulti
   source: shootAlternate
@@ -8,9 +7,15 @@ shoot: {
       reload: 4.5
       mirrored: true
       barrels: [
-      2.35, 0, 0
-      -2,35, 0, 0
-      0, 0, 0
+      4.7, 0, 0
+      ]
+    }
+    {
+      type: shootBarrel
+      reload: 4.5
+      mirrored: true
+      barrels: [
+      -4.7, 0, 0
       ]
     }
     {
@@ -18,8 +23,15 @@ shoot: {
       reload: 9
       mirrored: true
       barrels: [
-      4.7, 0, 0
-      -4.7, 0, 0
+      7.05, 0, 0
+      ]
+    }
+    {
+      type: shootBarrel
+      reload: 9
+      mirrored: true
+      barrels: [
+      -7.05 0, 0
       ]
     }
   ]
