@@ -1,3 +1,4 @@
+reload: 30
 shoot: {
   type: shootMulti
   source: {
