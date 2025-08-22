@@ -6,18 +6,20 @@ shoot: {
     {
       type: shootBarrel
       reload: 4.5
+      mirrored: true
       barrels: [
-      4.7, 0, 0
-      -4.7, 0, 0
+      2.35, 0, 0
+      -2,35, 0, 0
       0, 0, 0
       ]
     }
     {
       type: shootBarrel
       reload: 9
+      mirrored: true
       barrels: [
-      9.4, 0, 0
-      -9.4, 0, 0
+      4.7, 0, 0
+      -4.7, 0, 0
       ]
     }
   ]
