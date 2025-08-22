@@ -4,38 +4,24 @@ shoot: {
   dest: [
     {
       type: shootBarrel
-      shots: 1
-      shotDelay: 4.5
-      mirrored: true
+      shots: 2
+      shotDelay: 3
       barrels: [
+      0, 0, 0
       4.7, 0, 0
-      ]
-    }
-    {
-      type: shootBarrel
-      shots: 1
-      shotDelay: 4.5
-      mirrored: true
-      barrels: [
       -4.7, 0, 0
+      0, 0, 0
       ]
     }
     {
       type: shootBarrel
-      shots: 1
-      shotDelay: 9
-      mirrored: true
+      shots: 2
+      shotDelay: 3
       barrels: [
+      -7.05, 0, 0
+      0, 0, 0
+      0, 0, 0
       7.05, 0, 0
-      ]
-    }
-    {
-      type: shootBarrel
-      shots: 1
-      shotDelay: 9
-      mirrored: true
-      barrels: [
-      -7.05 0, 0
       ]
     }
   ]
